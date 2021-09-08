@@ -1,0 +1,31 @@
+[{
+    "id":1,
+    "category":"Very Severely Obese",
+    "risk":"Very High Risk",
+    "range":"40 and Above"
+},{
+    "id":2,
+    "category":"Severely Obese",
+    "risk":"High Risk",
+    "range":"35 to 40"
+},{
+    "id":3,
+    "category":"Moderately Obese",
+    "risk":"Medium Risk",
+    "range":"30 to 35"
+},{
+    "id":4,
+    "category":"Overweight",
+    "risk":"Enhanced Risk",
+    "range":"25 to 30"
+},{
+    "id":5,
+    "category":"Normal Weight",
+    "risk":"Low Risk",
+    "range":"18.5 to 25"
+},{
+    "id":6,
+    "category":"Underweight",
+    "risk":"Malnutrition Risk",
+    "range":"18.4 and bellow"
+}]
